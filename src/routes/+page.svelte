@@ -46,7 +46,7 @@
 
     <div class="mx-auto w-full max-w-2xl md:-translate-y-1/4">
         <div class="mb-10">
-            <h1 class="text-center text-9xl font-bold opacity-80">XRAY</h1>
+            <h1 class="text-center text-9xl font-bold opacity-80">Dora</h1>
         </div>
 
         <div class="relative w-full px-3">
@@ -86,7 +86,7 @@
                     >
                         Explore
                     </span>
-                    the Solana Blockchain
+                    the Solana & Stellar Blockchain
                 </h1>
             </div>
         {/if}
