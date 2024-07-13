@@ -17,6 +17,6 @@
     </div>
     <div class="">
         <p class="m-0 text-xs font-normal">Powered by</p>
-        <strong class="m-0">HELIUS</strong>
+        <strong class="m-0">DORA</strong>
     </div>
 </a>

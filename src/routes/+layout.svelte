@@ -22,7 +22,6 @@
         wallets,
     } from "$lib/state/stores/connect-wallet";
 
-    import Footer from "$lib/components/footer.svelte";
     import Modals from "$lib/components/modals.svelte";
     import Nav from "$lib/components/nav.svelte";
 
@@ -41,5 +40,5 @@
             </div>
         </div>
     </main>
-    <Footer />
+
 </QueryClientProvider>

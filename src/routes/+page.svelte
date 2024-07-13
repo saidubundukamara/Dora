@@ -82,7 +82,7 @@
             >
                 <h1 class="my-4 text-6xl font-bold">
                     <span
-                        class="bg-gradient-to-br from-orange-700 to-yellow-400 bg-clip-text text-transparent"
+                        class="bg-gradient-to-br from-green-700 to-purple-400 bg-clip-text text-transparent"
                     >
                         Explore
                     </span>
@@ -159,7 +159,7 @@
                     <div
                         class="mb-5 flex h-12 w-12 items-center justify-center rounded-full border"
                     >
-                        <h1>🎒</h1>
+                        <h1></h1>
                     </div>
                 </div>
             </div>
